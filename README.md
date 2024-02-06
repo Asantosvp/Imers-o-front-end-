@@ -22,14 +22,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto foi uma imersão Front-end desenvolvido pela Alura.
+Esse projeto foi uma imersão Front-end.
 
 ## 🔖 Layout
 
-Esse projeto![Resultado](https://github.com/Asantosvp/Imers-o-front-end-/assets/98029661/9ce46752-58b7-45e3-a0d7-7e540c82c65b)
+![Resultado](https://github.com/Asantosvp/Imers-o-front-end-/assets/98029661/9ce46752-58b7-45e3-a0d7-7e540c82c65b)
 
 
-## :memo: Licença está sob a licença MIT.
+## :memo: Esse projeto está sob a licença MIT.
 
 ---
 

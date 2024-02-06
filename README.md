@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto Imsersão Front-end" src="https://asantosvp.github.io/Imers-o-front-end-/" width="100%">
+  <img alt="Projeto Imsersão Front-end" src="[https://asantosvp.github.io/Imers-o-front-end-/](http://127.0.0.1:5500/index.html)" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -27,7 +27,7 @@ Esse projeto foi uma imersão Front-end desenvolvido pela Alura.
 ## 🔖 Layout
 
 <p align="center">
-  <img alt="Imersão Frot-end (Clone do Spotify)" src="[Resultado.jpg"](https://asantosvp.github.io/Imers-o-front-end-/) width="100%">
+  <img alt="Imersão Frot-end (Clone do Spotify)" src="[[Resultado.jpg](https://asantosvp.github.io/Imers-o-front-end-/)](http://127.0.0.1:5500/index.html)" width="100%">
 </p>
 
 

@@ -26,12 +26,10 @@ Esse projeto foi uma imersão Front-end desenvolvido pela Alura.
 
 ## 🔖 Layout
 
-<img src="Resultado.jpg">
+Esse projeto![Resultado](https://github.com/Asantosvp/Imers-o-front-end-/assets/98029661/9ce46752-58b7-45e3-a0d7-7e540c82c65b)
 
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
+## :memo: Licença está sob a licença MIT.
 
 ---
 

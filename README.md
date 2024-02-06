@@ -1,4 +1,4 @@
-<h1 align="center"> Imsersão Front-end (Clone do Spoify) </h1>
+<h1 align="center"> Imsersão Front-end (Clone do Spotify) </h1>
 
 
 <p align="center">
@@ -27,7 +27,7 @@ Esse projeto foi uma imersão Front-end desenvolvido pela Alura.
 ## 🔖 Layout
 
 <p align="center">
-  <img alt="Imersão Frot-end (Clone do Spoify)" src="Resultado.jpg" width="100%">
+  <img alt="Imersão Frot-end (Clone do Spotify)" src="[Resultado.jpg"](https://asantosvp.github.io/Imers-o-front-end-/) width="100%">
 </p>
 
 

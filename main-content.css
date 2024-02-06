@@ -3,7 +3,7 @@
 .main-container {
     max-width: 800vw;
     height: 100vh;  
-    margin-left: 320px;
+    margin-left: 50px;
     margin-right: 56px;
 }
 
@@ -52,7 +52,7 @@
 .header_search {
     display: flex;
     align-items: center;
-    width: 364px;
+    width: 500px;
     height: 48px;
     margin-left: 8px;
     background-color: #242424;
@@ -82,8 +82,10 @@
     font-size: 16px;
     font-weight: 700;
     background-color: transparent;
-    margin-right: 32px;
+    margin-right: 50px;
+    margin-left: 50px; 
     border-radius: none;
+    white-space: nowrap; 
 }
 
 .header_login .login {

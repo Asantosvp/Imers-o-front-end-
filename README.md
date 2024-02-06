@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto Imsersão Front-end" src="http://127.0.0.1:5500/index.html" width="100%">
+  <img alt="Projeto Imsersão Front-end" src="[http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/Projeto_Imersao/index.html)" width="100%">
 </p>
 
 ## 🚀 Tecnologias

@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto foi uma imersão Front-end.
 
-## 🔖 Layout
+## 🔖 Visualização do Projeto
 
 ![Resultado](https://github.com/Asantosvp/Imers-o-front-end-/assets/98029661/9ce46752-58b7-45e3-a0d7-7e540c82c65b)
 

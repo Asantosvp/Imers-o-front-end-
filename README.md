@@ -7,9 +7,7 @@
 
 <br>
 
-<p align="center">
-  <img alt="Projeto Imsersão Front-end" src="[http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/Projeto_Imersao/index.html)" width="100%">
-</p>
+
 
 ## 🚀 Tecnologias
 
@@ -29,7 +27,7 @@ Esse projeto foi uma imersão Front-end.
 ![Resultado](https://github.com/Asantosvp/Imers-o-front-end-/assets/98029661/9ce46752-58b7-45e3-a0d7-7e540c82c65b)
 
 
-## :memo: Esse projeto está sob a licença MIT.
+
 
 ---
 
